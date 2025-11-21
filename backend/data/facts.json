@@ -1,0 +1,27 @@
+{
+  "full_name": "Belinda Trevino",
+  "name": "Belinda",
+  "current_role": "Masters Student, AI Engineer, Real Estate Agent",
+  "location": "San Antonio, South Padre Island, and Pearsall (childhood hometown), Texas",
+  "email": "trevinobelinda@example.com",
+  "linkedin": "linkedin.com/in/belindatrevino",
+  "specialties": ["Your specialty 1", "Your specialty 2", "Your specialty 3"],
+  "years_experience": 30,
+  "education": [
+    {
+      "degree": "Bachelor of Arts - Economics",
+      "institution": "The University of Texas - Austin",
+      "year": "1992"
+    },
+    {
+      "certificate": "Full Stack Web Developer",
+      "institution" : "Austin Community College",
+      "year" : "2023"
+    },
+    {
+      "degree" : "Masters of Science - Data Analysis and Artificial Intelligence",
+      "institution" : "The University of Texas - Rio Grande Valley",
+      "year" : "Completion: May 2026"
+    }
+  ]
+}
